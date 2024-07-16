@@ -27,4 +27,4 @@ This project includes multiple activities for different functionalities:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/event-management-android.git
+   git clone https://github.com/ratanyadav3/event-management-android.git
